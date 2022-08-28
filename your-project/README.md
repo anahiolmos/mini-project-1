@@ -1,34 +1,22 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Tic Tac Toe!
+*Anahi Olmos*
 
-*[Your Cohort, Campus & Date]*
+*Campus: Ciudad de México, 30 julio 2022.*
 
 ## Content
-- [Project Description](#project-description)
-- [Rules](#rules)
-- [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
+- [Descripción](#descripción)
+- [Reglas](#reglas)
 
-## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+## Descripción
+TicTacToe (mejor conocido como 'gato0 en México) es un juego de estrategia donde participan 2 jugadores sobre un tablero de 3x3. 
 
-## Rules
-Describe briefly the rules of the game you chose. 
+## Reglas
+- Comunmente se utilizan los símbolos de X y O para cada jugador. 
+- En cada turno el jugador coloca su símbolo en una casilla vacía.
+- El objetivo para ganar el juego es conseguir una línea recta en forma vertical, horizontal o en diagonal por símbolo.
 
-## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
-
-## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
-
-What does your repository look like? Explain your folder and file structure.
-
-## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+<p align="center">
+<img width="250" alt="juego_gato" src="https://user-images.githubusercontent.com/108844724/187059600-e7379739-6023-44cf-bbed-0d04e70b42ea.png">
+</p>
